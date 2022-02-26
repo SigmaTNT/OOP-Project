@@ -1,0 +1,12 @@
+2000
+Chassis Number = 1234
+Engine Number = 235
+Booking Number = 12
+Person's name = adeen
+City = Lahore
+Address = Bahria
+Booking Date = 12 / 4 / 2021
+Delivery Date = 5 / 2 / 2022
+ Name of Vehicle = HONDA
+Total Price = 101000
+
